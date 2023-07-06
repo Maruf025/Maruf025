@@ -1,6 +1,6 @@
 - 👋 Hello, It's Maruf this side. 
 - 🐧 I'm currently persuing B.tech in CSE from National Institute of Technology, Silchar (2024).
-- 💻 I’m code in C++
+- 💻 I code in C++ and develop in HTML, CSS, JavaScript and exploring
 - 🌱 I’m currently learning Data Structure and Algorithm.
 - 📫 How to reach me https://bit.ly/LinkdIn_025
 
